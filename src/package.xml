@@ -8,28 +8,22 @@
 		<name>ApexClass</name>
 	</types>
 	<types>
-		<members>LABJS_ngforce</members>
 		<members>ngforce</members>
 		<name>ApexComponent</name>
 	</types>
 	<types>
-		<members>LABJS_ngForceAccounts</members>
-		<members>LABJS_ngForceDemo</members>
-		<members>LABJS_oppBoxTmpl</members>
-		<members>LABJS_oppDetail</members>
-		<members>LABJS_oppDetailsTmpl</members>
-		<members>LABSJS_ngForceAccountsAll</members>
+		<members>ngForceAccounts</members>
+		<members>ngForceDemo</members>
+		<members>ngForceRestAPIDemo</members>
+		<members>oppBoxTmpl</members>
+		<members>oppDetail</members>
+		<members>oppDetailsTmpl</members>
+		<members>ngForceAccountsAll</members>
 		<name>ApexPage</name>
 	</types>
 	<types>
-		<members>LABJS_Mo_Tester_2__c</members>
-		<name>CustomObject</name>
-	</types>
-	<types>
-    <members>ngForce</members>
-    <members>LABJS_Angular</members>
-    <members>LABJS_Bootstrap</members>
-    <members>LABJS_ngForce</members>
+    		<members>ngForce</members>
+    		<members>Bootstrap</members>
 		<name>StaticResource</name>
 	</types>
 	<version>28.0</version>
