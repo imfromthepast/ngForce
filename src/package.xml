@@ -4,6 +4,7 @@
 		<members>ngForceController</members>
 		<members>ngForceController_TEST</members>
 		<members>TestUtils</members>
+		<members>testNgForceController</members>
 		<name>ApexClass</name>
 	</types>
 	<types>
